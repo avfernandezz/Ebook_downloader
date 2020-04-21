@@ -1,6 +1,6 @@
 # Ebook Downloader
 
-Download e-books from a Text file with a "<Name> <Link>" Format. 
+Download e-books from a Text file with a "Name Link" Format. 
 Code generates an .xlsx with the values for downloading all the books in the list verifying it doesn't already exists in the file system.
 
 ## Built With
